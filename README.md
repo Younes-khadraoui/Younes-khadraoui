@@ -1,4 +1,3 @@
-[![MasterHead](https://th.bing.com/th/id/R.c072d63d5a6ada8c83abef48e223408c?rik=cLasovW%2fkBWcOQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate frontend developer and Cs student</h3>
