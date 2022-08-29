@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 🌱 I’m currently learning **Web3 and react**
+- 🌟 I’m currently learning **Web3 and react**
 
 - 👨‍💻 All of my projects are available at [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
 
-- 📫 How to reach me **Younes.khadraoui.pro@gmail.com**
+- 🔦 How to reach me **Younes.khadraoui.pro@gmail.com**
 
 - ⚡ Fun fact **I like football and video games**
 
