@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">A passionate frontend developer and Cs student</h3>
+<h3 align="center">A passionate fullstack developer and Cs student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 🌟 I’m currently learning **nodeJs and react**
+- 🌟 I’m currently learning **MongoDB and starting react**
 
 - 👨‍💻 All of my projects are available at [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
 
