@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 🌟 I’m currently learning **MongoDB and starting react**
+- 🌟 I’m currently learning **MongoDB and react**
 
 - 👨‍💻 All of my projects are available at [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
 
