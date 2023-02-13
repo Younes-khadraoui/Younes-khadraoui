@@ -6,13 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 🌟 I’m currently learning **MongoDB and react**
+- 🌟 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
 
-- 🔦 How to reach me **Younes.khadraoui.pro@gmail.com**
+- 🔦 Reach me at **Younes.khadraoui.pro@gmail.com**
 
-- ⚡ Fun fact **I like football and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
