@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">A passionate fullstack developer and Cs student</h3>
+<h3 align="center">A passionate front-end developer and Cs student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
