@@ -8,7 +8,7 @@
 
 - 🌟 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
+- 👨‍💻 My portfolio [https://younes-khadraoui.github.io/](https://younes-khadraoui.github.io/)
 
 - 🔦 Reach me at **Younes.khadraoui.pro@gmail.com**
 
