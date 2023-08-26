@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate front-end developer and CS student</h3>
 
-![Coding GIF](https://tenor.com/en-GB/view/coding-typing-pc-laptop-power-gif-21599707)
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-typing-pc-laptop-power-gif-21599707">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
