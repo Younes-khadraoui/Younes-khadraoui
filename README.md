@@ -10,7 +10,7 @@
 
 - 🌟 I’m currently learning **Astro**
 
-- 👨‍💻 My portfolio [https://youness-portfolio.netlify.app/](https://youness-portfolio.netlify.app/)
+- 👨‍💻 My portfolio [https://younes-khx.vercel.app/](https://younes-khx.vercel.app/)
 
 - 🔦 Reach me at **Younes.khadraoui.pro@gmail.com**
 
