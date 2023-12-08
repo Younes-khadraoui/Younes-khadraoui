@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 🌟 I’m currently learning **Astro**
+- 🌟 I’m currently learning **HTMX and FastAPI**
 
 - 👨‍💻 My portfolio [https://younes-khx.vercel.app/](https://younes-khx.vercel.app/)
 
