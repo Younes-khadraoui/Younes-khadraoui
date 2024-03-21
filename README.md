@@ -10,7 +10,7 @@
 
 - 🌟 I’m currently learning **HTMX and FastAPI**
 
-- 👨‍💻 My portfolio [https://younes-khx.vercel.app/](https://younes-khx.vercel.app/)
+- 👨‍💻 My portfolio [https://younes.tech/](https://younes.tech/)
 
 - 🔦 Reach me at **Younes.khadraoui.pro@gmail.com**
 
