@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">A passionate front-end developer and CS student</h3>
+<h3 align="center">A passionate full stack developer and CS student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Younes-khadraoui/Younes-khadraoui/assets/107479886/509f6465-d1ef-4efc-ac28-7702cb54f78d">
 
