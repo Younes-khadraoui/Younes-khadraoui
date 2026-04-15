@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
-- 👨‍💻 My portfolio [https://younes.tech/](https://younes.website/)
+- 👨‍💻 My portfolio [https://younes.website/](https://younes.website/)
 
 - 🔦 Reach me at **Younes.khadraoui.pro@gmail.com**
 
