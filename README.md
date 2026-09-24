@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A Passionate Software Engineer and CS Student</h3>
 
-<img width="480" height="270" alt="FallPhotographyGIFbyMetOfficeweather-ezgif com-optimize" src="https://github.com/user-attachments/assets/ed967cf5-a10e-4a91-a5b6-4b295101a549" />
-
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Younes-khadraoui/Younes-khadraoui/assets/107479886/509f6465-d1ef-4efc-ac28-7702cb54f78d">
+<img align="right" width="440" height="270" alt="FallPhotographyGIFbyMetOfficeweather-ezgif com-optimize" src="https://github.com/user-attachments/assets/ed967cf5-a10e-4a91-a5b6-4b295101a549" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
