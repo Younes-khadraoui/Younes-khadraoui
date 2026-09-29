@@ -4,10 +4,8 @@
 
 <img align="right" width="400" height="270" alt="Walking character" src="https://github.com/user-attachments/assets/1632c275-854e-44bb-84d5-68ff9ee75697" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&colo
 
-
-r=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&color=0e75b6&style=flat" alt="younes-khadraoui" /> </p>
 
 - 👨‍💻 My portfolio [https://younes.website/](https://younes.website/)
 
