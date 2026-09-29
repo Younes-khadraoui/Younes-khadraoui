@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<img align="right" width="400" height="270" alt="Walking character" src="https://github.com/user-attachments/assets/6419858a-4f22-4704-a474-dba4b6a55e1a" />
-
+<img align="right" width="400" height="270" alt="Walking character" src="https://github.com/user-attachments/assets/1632c275-854e-44bb-84d5-68ff9ee75697" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younes-khadraoui&label=Profile%20views&colo
 
